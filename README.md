@@ -1,4 +1,4 @@
-# Hallo, ich bin Justin
+# Servus
 
 Ich entwickle **QuizTower**, ein Quizspiel im Browser. Löse Aufgaben auf mehreren Etagen, spiele allein oder mit anderen und stelle eigene Quiz zusammen.
 
