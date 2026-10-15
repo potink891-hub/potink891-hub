@@ -1,9 +1,19 @@
-# Servus
+# Hey, welcome! 👋
 
-Ich entwickle **QuizTower**, ein Quizspiel im Browser. Löse Aufgaben auf mehreren Etagen, spiele allein oder mit anderen und stelle eigene Quiz zusammen.
+I enjoy building projects, exploring ideas, and figuring things out along the way. This is where I share what I’m working on.
 
-- **[QuizTower öffnen](https://quiztower.at)**
-- **[Projekt und Updates](https://github.com/potink891-hub/quiztower-public)**
-- **[Versionen und Release Candidates](https://github.com/potink891-hub/quiztower-public/releases)**
+## 🏰 My main project: QuizTower
 
-Der Quellcode bleibt privat. Die öffentliche Projektseite zeigt die Weiterentwicklung und freigegebene Änderungsnotizen.
+**A browser quiz game. One tower, plenty of challenges.**
+
+Work your way through multiple floors, play solo or with others, and create your own quizzes.
+
+QuizTower is my main focus, alongside other projects and experiments.
+
+### Check it out
+
+- 🎮 **[Play QuizTower](https://quiztower.at)**
+- 🛠️ **[Explore the project & updates](https://github.com/potink891-hub/quiztower-public)**
+- 🚀 **[Browse releases & release candidates](https://github.com/potink891-hub/quiztower-public/releases)**
+
+The source code is private, but you can follow development and published release notes on the public project page.
